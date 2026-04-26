@@ -38,7 +38,7 @@ https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 ## How to Run
 - Install required libraries
 - Open the Jupyter Notebook
-- Run breast_cancer.ipynb
+- Run `breast_cancer.ipynb`
 
 ## Applications
 - Medical diagnosis support
